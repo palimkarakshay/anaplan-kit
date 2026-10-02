@@ -4,7 +4,6 @@ Beginner-friendly **learning + reference kit** for new Anaplan model builders/co
 a course (L1→L3), formula reference (Anapedia-validated), cookbook recipes, blueprints, and a
 small runnable Python client for the Anaplan REST API v2. Public educational repo.
 
-- **Lumivara product line:** Learn.
 - **Mostly Markdown docs** — Anaplan is browser-only SaaS; docs/blueprints/recipes *describe & illustrate*, verified against published syntax (`SOURCES.md`), NOT executed. Only runnable code is `tooling/`.
 
 ## Toolchain & commands (authoritative — from README + CI)
